@@ -1,0 +1,6 @@
+com/example/dynamodb/spingbootdynamodbcrud/SpingbootDynamodbCrudApplication.class
+com/example/dynamodb/spingbootdynamodbcrud/entity/Person.class
+com/example/dynamodb/spingbootdynamodbcrud/config/DynamoDbConfiguration.class
+com/example/dynamodb/spingbootdynamodbcrud/ServletInitializer.class
+com/example/dynamodb/spingbootdynamodbcrud/repository/PersonRepository.class
+com/example/dynamodb/spingbootdynamodbcrud/controller/PersonController.class

@@ -1,0 +1,6 @@
+/Users/marciotanaka/workspace/spingboot-dynamodb-crud/src/main/java/com/example/dynamodb/spingbootdynamodbcrud/ServletInitializer.java
+/Users/marciotanaka/workspace/spingboot-dynamodb-crud/src/main/java/com/example/dynamodb/spingbootdynamodbcrud/config/DynamoDbConfiguration.java
+/Users/marciotanaka/workspace/spingboot-dynamodb-crud/src/main/java/com/example/dynamodb/spingbootdynamodbcrud/repository/PersonRepository.java
+/Users/marciotanaka/workspace/spingboot-dynamodb-crud/src/main/java/com/example/dynamodb/spingbootdynamodbcrud/controller/PersonController.java
+/Users/marciotanaka/workspace/spingboot-dynamodb-crud/src/main/java/com/example/dynamodb/spingbootdynamodbcrud/SpingbootDynamodbCrudApplication.java
+/Users/marciotanaka/workspace/spingboot-dynamodb-crud/src/main/java/com/example/dynamodb/spingbootdynamodbcrud/entity/Person.java

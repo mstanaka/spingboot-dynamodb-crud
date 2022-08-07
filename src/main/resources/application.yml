@@ -1,0 +1,7 @@
+server:
+  port: 8059
+aws:
+  dynamodb:
+    endpoint: "http://localhost:8002"
+    accessKey: "bjdh1e"
+    secretKey: "mxo4i"
